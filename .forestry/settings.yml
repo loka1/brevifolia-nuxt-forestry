@@ -23,7 +23,7 @@ sections:
   label: Config
 - type: document
   path: content/data/config.json
-  label: Site Info
+  label: Site Infoaa
 upload_dir: static
 public_path: ''
 front_matter_path: ''
